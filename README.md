@@ -1,4 +1,5 @@
 # IVP Pro — Intelligent Vision System
+Team Members: Aaryan Sethia, Dhairya Valecha, Vansh Goyal
 
 ## Features
 - Live YOLO object detection with bounding boxes and confidence filtering.
